@@ -1,3 +1,3 @@
-function fun(){
-alert(1);
-}
+function msg(){  
+ alert("Hello Javatpoint");  
+}  
